@@ -52,7 +52,7 @@ A responsive streaming website built with **HTML**, **CSS**, and **JavaScript**.
 
 ```bash
 git clone https://github.com/browql0/browql_movie.git
-cd your-repo-name
+cd browql_movie
 ```
 
 2. **Open `index.html` in your browser**  
